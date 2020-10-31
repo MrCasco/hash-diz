@@ -1,0 +1,7 @@
+Flask==0.12
+gunicorn==19.3.0
+Flask-Jsonpify
+pandas
+hashlib
+numpy
+requests
